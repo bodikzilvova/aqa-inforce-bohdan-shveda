@@ -28,20 +28,20 @@ npx playwright test
 
 Sign Up tests
 
-Filename: signUp.spec.js
-Location: tests/signUp.spec.js
+- Filename: signUp.spec.js
+- Location: tests/signUp.spec.js
 
 Login tests
 
-Filename: login.spec.js
-Location: tests/login.spec.js
+- Filename: login.spec.js
+- Location: tests/login.spec.js
 
 Cart page tests
 
-Filename: cart.spec.js
-Location: tests/cart.spec.js
+- Filename: cart.spec.js
+- Location: tests/cart.spec.js
 
 Home page tests
 
-Filename: home.spec.js
-Location: tests/home.spec.js
+- Filename: home.spec.js
+- Location: tests/home.spec.js
